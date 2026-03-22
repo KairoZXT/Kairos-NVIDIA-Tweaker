@@ -1,8 +1,9 @@
 # ⚡ Kairos NVIDIA Tweaker
+<a href="https://viberank.dev/apps/NVIDIA-TWEAKER" target="_blank" rel="noopener noreferrer"><img src="https://viberank.dev/badge?app=NVIDIA-TWEAKER&theme=dark" alt="NVIDIA-TWEAKER on VibeRank" /></a>
 
 # 👏 About
 
-KairoNVIDIATweaker is an open-source Windows batch utility that automatically optimizes NVIDIA GPU driver registry settings for improved performance, lower latency, and better system responsiveness.
+This is an open-source Windows batch utility that automatically optimizes NVIDIA GPU driver registry settings for improved performance, lower latency, and better system responsiveness.
 
 The script targets key driver-level registry values commonly adjusted by advanced tweakers — covering power state management, scheduling, ASPM, HDCP, ECC, telemetry, and NVIDIA driver logging. These settings influence how Windows and the NVIDIA driver manage GPU power, scheduling behaviour, and background overhead.
 
